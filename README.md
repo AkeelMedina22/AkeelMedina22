@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! I am <b>Akeel Ather Medina </a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    Computer Science student @ 🐦 <b>Habib University</b> <br>
+    Computer Science student at <b>Habib University</b> 
   </samp>
 </p>
 
