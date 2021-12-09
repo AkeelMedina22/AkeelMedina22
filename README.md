@@ -13,5 +13,5 @@
       <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C++-3572A5?style=flat-square&logo=SystemVerilog&logoColor=white"></a>
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=systemverilog&sort=" target="_blank"><img alt="SystemVerilog" src="https://img.shields.io/badge/-SystemVerilog-3572A5?style=flat-square&logo=SystemVerilog&logoColor=white"></a>
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=processing&sort=" target="_blank"><img alt="Processing" src="https://img.shields.io/badge/-Processing-3572A5?style=flat-square&logo=SystemVerilog&logoColor=white"></a>
-     <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=JupyterNotebook&sort=" target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-3572A5??style=flat-square&logo=JupyterNotebook&logoColor=white"></a>
+     <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-3572A5??style=flat-square&logo=JupyterNotebook&logoColor=white"></a>
 
