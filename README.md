@@ -1,7 +1,14 @@
 <h3 align="center"><samp>Hello! My name is <b>Akeel Ather Medina (◕‿◕🌺) </a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    Computer Science student at <b>Habib University</b> 
+    Computer Science student at <b>Habib University</b> <br>
+    My interests include:
+    <b>Computer Graphics</b>, 
+    <b>Ray Tracing</b>,
+    <b>Generative Art</b>,
+    <b>Artificial Intelligence</b>,
+    <b>Fuzzy Logic</b>, and
+    <b>Natural Computing</b>.
   </samp>
 </p>
 
@@ -14,4 +21,7 @@
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=systemverilog&sort=" target="_blank"><img alt="SystemVerilog" src="https://img.shields.io/badge/-SystemVerilog-3572A5?style=flat-square&logo=SystemVerilog&logoColor=white"></a>
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=processing&sort=" target="_blank"><img alt="Processing" src="https://img.shields.io/badge/-Processing-3572A5?style=flat-square&logo=SystemVerilog&logoColor=white"></a>
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-3572A5??style=flat-square&logo=JupyterNotebook&logoColor=white"></a>
+     <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=javascript&sort=" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-3572A5??style=flat-square"></a>
+     <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=LaTeX&sort=" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-3572A5??style=flat-square"></a>
+
 
