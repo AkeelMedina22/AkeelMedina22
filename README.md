@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! My name is <b>Akeel Ather Medina (◕‿◕🌺) </a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    Computer Science student at <b>Habib University</b> <br>
+    Computer Science Senior at <b>Habib University</b> <br>
     My interests include:
     <b>Computer Graphics</b>, 
     <b>Ray Tracing</b>,
