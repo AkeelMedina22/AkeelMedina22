@@ -1,12 +1,12 @@
-<h3 align="center"><samp>Hello! My name is <b>Akeel Ather Medina (◕‿◕🌺) </a></b></samp></h3>
+<h3 align="center"><samp>Hello! My name is <b>Akeel (￣▽￣)ノ</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    Computer Science Senior at <b>Habib University</b> <br>
+    I am a Computer Science Senior at <b>Habib University</b> <br>
     My interests include:
     <b>Computer Graphics</b>, 
-    <b>Ray Tracing</b>,
+    <b>Graphics Programming</b>,
     <b>Generative Art</b>,
-    <b>Artificial Intelligence</b>,
+    <b>Deep Learning</b>,
     <b>Fuzzy Logic</b>, and
     <b>Natural Computing</b>.
   </samp>
