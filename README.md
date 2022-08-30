@@ -5,7 +5,8 @@
     My interests include:
     <b>Computer Graphics</b>, 
     <b>Graphics Programming</b>,
-    <b>Generative Art</b>,
+    <b>Novel-View Synthesis</b>,
+    <b>Neural SDFs</b>,
     <b>Deep Learning</b>,
     <b>Fuzzy Logic</b>, and
     <b>Natural Computing</b>.
