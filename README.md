@@ -4,12 +4,10 @@
     I am a Computer Science Senior at <b>Habib University</b> <br>
     My interests include:
     <b>Computer Graphics</b>, 
-    <b>Graphics Programming</b>,
-    <b>Novel-View Synthesis</b>,
-    <b>Neural SDFs</b>,
+    <b>Light Transport</b>,
+    <b>Physically Based Rendering</b>,
+    <b>Inverse Rendering</b>,
     <b>Deep Learning</b>,
-    <b>Fuzzy Logic</b>, and
-    <b>Natural Computing</b>.
   </samp>
 </p>
 
