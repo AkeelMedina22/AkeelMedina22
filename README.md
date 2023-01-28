@@ -6,7 +6,8 @@
     <b>Computer Graphics</b>, 
     <b>Light Transport</b>,
     <b>Physically Based Rendering</b>,
-    <b>Image Processing</b>,
+    <b>Color and Human Perception</b>,
+    <b>Fluid Simulation</b>,
     <b>Deep Learning</b>,
   </samp>
 </p>
