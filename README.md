@@ -1,5 +1,8 @@
 <h3 align="center"><samp>Hello! My name is <b>Akeel Ather Medina</a></b></samp></h3>
 <p align="center"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AkeelMedina22&show_icons=true&theme=city_lights" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;"/>
+  <br>
+  <br>
   <samp>
     I am a Computer Science Senior at <b>Habib University</b> <br>
     My interests include:
@@ -24,7 +27,8 @@
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=jupyter+notebook&sort=" target="_blank"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter Notebook-grey"></a>
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=systemverilog&sort=" target="_blank"><img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-white"></a>
      <a href="https://github.com/AkeelMedina22?tab=repositories&q=&type=&language=processing&sort=" target="_blank"><img alt="Processing" src="https://img.shields.io/badge/Processing-silver"></a>
-     
+     </details>
+    
      
 
 
