@@ -8,10 +8,9 @@
     My interests include:
     <b>Computer Graphics</b>, 
     <b>Light Transport</b>,
-    <b>Physically Based Rendering</b>,
-    <b>Color and Human Perception</b>,
-    <b>Fluid Simulation</b>,
-    <b>Deep Learning</b>,
+    <b>Numerical Methods</b>,
+    <b>(Fluid) Simulation</b>,
+    <b>Machine Learning</b>,
   </samp>
 </p>
 
