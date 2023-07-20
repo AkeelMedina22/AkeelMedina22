@@ -8,7 +8,7 @@
     My interests include:
     <b>Computer Graphics</b>, 
     <b>Numerical Methods</b>,
-    <b>Simulations</b>,
+    <b>Simulations</b>, and 
     <b>Machine Learning</b>,
   </samp>
 </p>
