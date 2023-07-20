@@ -4,12 +4,11 @@
   <br>
   <br>
   <samp>
-    I am a Computer Science Senior at <b>Habib University</b> <br>
+    I did my Bachelors in Comp. Sci at <b>Habib University</b> <br>
     My interests include:
     <b>Computer Graphics</b>, 
-    <b>Light Transport</b>,
     <b>Numerical Methods</b>,
-    <b>(Fluid) Simulation</b>,
+    <b>Simulations</b>,
     <b>Machine Learning</b>,
   </samp>
 </p>
