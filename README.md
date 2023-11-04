@@ -7,8 +7,7 @@
     I did my Bachelors in Comp. Sci at <b>Habib University</b> <br>
     My interests include:
     <b>Computer Graphics</b>, 
-    <b>Numerical Methods</b>,
-    <b>Simulations</b>, and 
+    <b>Computational Geometry</b>, and 
     <b>Machine Learning</b>,
   </samp>
 </p>
