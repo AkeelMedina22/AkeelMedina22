@@ -1,6 +1,6 @@
 <h3 align="center"><samp>Hello! My name is <b>Akeel Ather Medina</a></b></samp></h3>
 <p align="center"><br>
-  <img src="https://github-readme-stats-git-master-akeelmedina22.vercel.app/api?username=AkeelMedina22&show_icons=true&theme=city_lights&count_private=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats-v88w.vercel.app/api?username=AkeelMedina22&show_icons=true&theme=synthwave&count_private=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;"/>
   <br>
   <br>
   <samp>
