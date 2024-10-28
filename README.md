@@ -3,9 +3,9 @@
   <samp>
     I did my Bachelors in Computer Science at <b>Habib University</b> <br>
     My interests include:
-    <b>Point Cloud Processing</b>, 
+    <b>Scientific Computing</b>, 
     <b>High Performance Computing</b>, and 
-    <b>Databases</b>.
+    <b>Distributed Point Cloud Processing</b>.
   </samp>
 </p>
 
