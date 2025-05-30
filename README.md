@@ -1,11 +1,11 @@
-<h3 align="center"><samp>Hello! My name is <b>Akeel Ather Medina</a></b></samp></h3>
+<h3 align="center"><samp>Hello! My name is <b>Akeel</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    I did my Bachelors in Computer Science at <b>Habib University</b> <br>
+    I did my Bachelors in Computer Science at <b>Habib University</b>, and am doing my Masters at <b>The University of Edinburgh</b> in High Performance Computing. <br>
     My interests include:
     <b>Scientific Computing</b>, 
-    <b>High Performance Computing</b>, and 
-    <b>Distributed Point Cloud Processing</b>.
+    <b>Software Engineering</b>, and 
+    <b>HPC</b>.
   </samp>
 </p>
 
