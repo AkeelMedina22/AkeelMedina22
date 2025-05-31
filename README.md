@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello! My name is <b>Akeel</a></b></samp></h3>
 <p align="center"><br>
   <samp>
-    I did my Bachelors in Computer Science at <b>Habib University</b>, and am doing my Masters at <b>The University of Edinburgh</b> in High Performance Computing. <br>
+    I did my Bachelors in Computer Science at <b>Habib University</b> (2019-2023), and am doing my Masters at <b>The University of Edinburgh</b> in High Performance Computing (2025-2026). <br>
     My interests include:
     <b>Scientific Computing</b>, 
     <b>Software Engineering</b>, and 
