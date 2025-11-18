@@ -3,9 +3,10 @@
   <samp>
     After a degree in Computer Science at <b>Habib University</b> (2019-2023) and 2 YOE at Abyss Solutions, I am currently doing my Masters at <b>The University of Edinburgh</b> in High Performance Computing (2025-2026). <br>
     My interests include: <br>
-    - <b>Performance Analysis & Programming</b> <br> 
-    - <b>Parallel Programming</b> <br>
-    - <b>Hardware Accelerators & Compiler Design</b>.
+    - <b>Performance Programming</b> <br> 
+    - <b>CPU Microarchitecture</b> <br>
+    - <b>GPU Programming & Architecture</b> <br>
+    - <b>Hardware Accelerators (Tenstorrent, Cerebras, etc.)</b>.
   </samp>
 </p>
 
