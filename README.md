@@ -5,8 +5,7 @@
     My interests include: <br>
     - <b>Performance Programming</b> <br> 
     - <b>CPU Microarchitecture</b> <br>
-    - <b>GPU Programming & Architecture</b> <br>
-    - <b>Hardware Accelerators (Tenstorrent, Cerebras, etc.)</b>.
+    - <b>GPU Programming & Architecture</b> 
   </samp>
 </p>
 
